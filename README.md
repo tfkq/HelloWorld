@@ -22,3 +22,11 @@ To build and run this project, you need:
    ```bash
    git clone <repository-url>
    cd HelloWorld-master
+   
+2. Build the project using Maven:
+   mvn clean install
+
+3. Run the application:
+   java -cp target/classes it.nanowar.ofsteel.helloworld.HelloWorldMainLauncherClass
+
+
