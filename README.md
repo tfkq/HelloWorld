@@ -1,5 +1,5 @@
 # HelloWorld.java
-Welcome to the **Nanowar Of Steel*'s first GitHub project, and first ever example of a **source-code song**.
+Welcome to the **Nanowar Of Steel**'s first GitHub project, and first ever example of a **source-code song**.
 The aim of this project is to support and enforce "_True metal programming_", that basically means: "_write code so badly that you can only sing it_".
 
 You can find the source-code video in the link below:
@@ -132,7 +132,7 @@ This will print "Hello World!" three times.
 
 ## License
 
-This project is licensed under the IronAvantgarde Publishing & Napalm Records License - see the [License](https://napalmrecords.com/) file for details.
+This project is licensed under the IronAvantgarde Publishing & Napalm Records License - see the [Napalm Records Website](https://napalmrecords.com/) for more details.
 
 ---
 
