@@ -1,19 +1,21 @@
 # HelloWorld.java
-Welcome to the Nanowar Of Steel's first GitHub project, and first ever example of a source-code song.
-The aim of this project is to support and enforce "True metal programming", that basically means: "write code so badly that you can only sing it".
+Welcome to the **Nanowar Of Steel*'s first GitHub project, and first ever example of a **source-code song**.
+The aim of this project is to support and enforce "_True metal programming_", that basically means: "_write code so badly that you can only sing it_".
 
 You can find the source-code video in the link below:
 https://www.youtube.com/watch?v=yup8gIXxWDU
 
+[Here](https://nanowar.it/) is the Nanowar Of Steel official website.
+
 Some important notes:
-1. Beware of Joey De Caio, if set to null It may suddenly cancel the program execution with a NullPointerException.
-2. Metal variable is very important! If it is set to "false", it may trigger the Joey De Caio variable mentioned above.
-3. Tizio and Foo are very close friends.
-4. Pippo isn't Caio's friend, but he's been flirting with Foo.
-5. In the comments "manage" should be renamed as "handle" (we all wish "manage" was the right word, but it's not).
-6. The constructor argument is used to control the number of executions. However, It may be completely useless if the execution is canceled by Joey De Caio.
-7. Write once, run anywhere means lityerally anywhere (e.g. Hellfest).
-8. sonfRefrain() identifies itself as a void method.
+1. Beware of ```Joey De Caio```, if set to null It may suddenly cancel the program execution with a NullPointerException.
+2. ```metal``` variable is very important! If it is set to "false", it may trigger the Joey De Caio variable mentioned above.
+3. ```tizio``` and ```foo``` are very close friends.
+4. ```pippo``` isn't ```tizio```'s friend, but he's been flirting with ```foo```.
+5. In the comments "**manage**" should be renamed as "**handle**" (we all wish "manage" was the right word, but it's not).
+6. The constructor argument is used to control the number of executions. However, It may be completely useless if the execution is canceled by ```Joey De Caio```.
+7. "_Write once, run anywhere_" means lityerally anywhere (e.g. Hellfest).
+8. ```sonfRefrain()``` identifies itself as a void method.
 
 Below you will find a super detailed guide to the program, of course written with ChatGPT.
 
@@ -130,7 +132,7 @@ This will print "Hello World!" three times.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the IronAvantgarde Publishing & Napalm Records License - see the [License](https://napalmrecords.com/) file for details.
 
 ---
 
@@ -139,6 +141,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to fork this repository, submit issues, or open pull requests if you'd like to improve this code. Contributions are always welcome!
 
 ---
+
+## Contacts
+
+**Do you want some buggy, personalized and singable code by Nanowar Of Steel**? Please contact us [here](mailto:nanowar@nanowar.it). 
+
+---
+
 
 ### Notes:
 
