@@ -20,7 +20,7 @@ Some important notes:
 5. In the comments "**manage**" should be renamed as "**handle**" (we all wish "manage" was the right word, but it's not).
 6. The constructor argument is used to control the number of executions. However, It may be completely useless if the execution is canceled by ```Joey De Caio```.
 7. "_Write once, run anywhere_" means lityerally anywhere (e.g. Hellfest).
-8. ```sonfRefrain()``` identifies itself as a void method.
+8. ```songRefrain()``` identifies itself as a void method.
 
 Below you will find a super detailed guide to the program, of course written with ChatGPT.
 
