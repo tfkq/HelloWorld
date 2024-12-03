@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=yup8gIXxWDU
 
 [Here](https://nanowar.it/) is the Nanowar Of Steel official website.
 
+[Here](https://www.youtube.com/@nanowarVEVO) is the Nanowar Of Steel Youtube Channel.
+
 Some important notes:
 1. Beware of ```Joey De Caio```, if set to null It may suddenly cancel the program execution with a NullPointerException.
 2. ```metal``` variable is very important! If it is set to "false", it may trigger the Joey De Caio variable mentioned above.
