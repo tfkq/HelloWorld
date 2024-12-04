@@ -56,12 +56,12 @@ To set up and run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/helloworldmainlauncherclass.git
+   git clone https://github.com/NanowarOfSteel/HelloWorld.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd helloworldmainlauncherclass
+   cd HelloWorld
    ```
 
 3. Compile the Java file:
