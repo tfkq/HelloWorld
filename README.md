@@ -1,4 +1,10 @@
-# HelloWorld.java
+# HelloWorld.cpp
+
+
+
+*because memory safety is for noobs and posers*
+
+
 
 ![thumbnail](./Thumbnail.jpeg)
 
@@ -116,7 +122,7 @@ This will print "Hello World!" three times.
        for (int i = 0; i < foo; i++) {
            System.out.println("Hello World!");
        }
-
+   
        int pippo = 0;
        while (pippo < foo) {
            System.out.println("Hello World!");
