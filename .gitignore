@@ -1,2 +1,4 @@
 # Ignore Maven result files
 target/
+*.falsemetal
+*.joeydecaio
